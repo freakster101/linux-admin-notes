@@ -12,7 +12,7 @@ Displays the current working directory.
 ## Syntax
 ```bash
 pwd
-
+```
 
 # ls
 
