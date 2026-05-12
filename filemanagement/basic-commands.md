@@ -14,4 +14,13 @@ Displays the current working directory.
 pwd
 
 
+# ls
 
+## Description
+Lists files and directories.
+
+## Example
+
+```bash
+ls -la
+```
