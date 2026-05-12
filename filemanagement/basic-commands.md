@@ -24,3 +24,8 @@ Lists files and directories.
 ```bash
 ls -la
 ```
+
+
+
+
+![Termux file management practice](Screenshots/Screenshot_20260512_034258_com_termux_TermuxActivity.jpg)
